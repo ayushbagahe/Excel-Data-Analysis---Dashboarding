@@ -23,4 +23,4 @@ This is a real life excel data analysis project and a interactive dashboard of a
 
 ## Screenshots
 
-  
+  ![image alt](https://github.com/ayushbagahe/Excel-Data-Analysis---Dashboarding/blob/main/snap.jpg?raw=true)
