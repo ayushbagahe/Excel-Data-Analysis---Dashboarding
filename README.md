@@ -23,4 +23,4 @@ This is a real life excel data analysis project and a interactive dashboard of a
 
 ## Screenshots
 
-(https://drive.google.com/file/d/13GFxSOWsBH96ZDZH1Fu_r-0tIh2bSqpC/view?usp=drive_link)
+  
